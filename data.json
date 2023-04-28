@@ -46,10 +46,6 @@
       {
         "action": "adopt",
         "type": "cat"
-      },
-      {
-        "action": "read",
-        "type": "finance"
       }
     ],
     "employee": [

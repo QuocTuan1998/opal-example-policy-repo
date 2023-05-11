@@ -1,7 +1,5 @@
 package istio.authz
 
-import future.keywords
-
 # Default is not allowed
 default allow = false
 

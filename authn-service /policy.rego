@@ -1,10 +1,6 @@
 package istio.authz
 
 import future.keywords
-import input.attributes.request.http as http_request
-import input.parsed_path
-import input.parsed_query
-import input.parsed_body
 
 # Default is not allowed
 default allow = false
